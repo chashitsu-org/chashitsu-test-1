@@ -3,9 +3,14 @@
   "version": "1.0.0",
   "description": "a test package of Chashitsu",
   "main": "index.js",
+
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Matsuyuki <matsuyuki.eca@gmail.com>",
+  "publishConfig": {
+    "access": "public"
+  },
   "license": "CC0-1.0"
 }
+
