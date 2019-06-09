@@ -3,7 +3,8 @@
 
 npm パッケージの publish テストです。
 
-https://www.npmjs.com/package/@chashitsu/chashitsu-test-1
+- GitHub: https://github.com/chashitsu-org/chashitsu-test-1
+- npmjs.com: https://www.npmjs.com/package/@chashitsu/chashitsu-test-1
 
 ### Chashitsu のメンバーがpublishするには
 1. `package.json` のバージョンを上げる
