@@ -8,7 +8,7 @@ npm パッケージの publish テストです。
 
 ### Chashitsu のメンバーがpublishするには
 1. `package.json` のバージョンを上げる
-2. master にコミット(Pull Requestは作っても作らなくてもいい)
+2. master にコミット/プッシュ (Pull Requestは作っても作らなくてもいい)
 3.  `npm publish`
 
 ### コードの動作方法
