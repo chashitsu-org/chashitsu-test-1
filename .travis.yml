@@ -1,0 +1,11 @@
+language: node_js
+node_js:
+- '10'
+deploy:
+  on:
+    branch: master
+    tags: true
+  provider: npm
+  email: matsuyuki.eca@gmail.com
+  api_key:
+    secure: B1zNPogLYvZ17EGprrsTkPXo8QzPGKE1d3yL/qYQe/2RshJPzEgy+azjHo0a8A/A6bQTFDT2V0rqKS/I76hDH9wIoY4tUKs5dQHJ6E8/k08nvDm+I3emCRYigQhNH6Tmoi7zevjUXpEhnmWvoDXU2htaWnbKHR+j1TL0NocUjFJph+vIkx7yjBtjO7nUsBpIyzs2PrASmhYLhBuGVd8s5llT614tyGkf3tWaAnL7nMUN0YapufzOyY4B4aHllzGvfWHi1bHWNF+W+pMeuE76Sm98hXIdEs+ZrcV61g0oUzIU+p3ljrHg1eNhLpJDFKDJv55W7GRh5pCD4VRqxrmnN26RW1AORx4xVKQLQLEWZlAXWAlHL+O5zmkbeNLGhAquegvpvfcK4acb/1ILsjIzoDtkfAAn1wUhlXWcwvBri1f6Q42rfu29M8U1bVqJXA9QHSgaBxq7sbHZ127JMX56/51cJR4epW1bcx9CUqGjZeyc5eDL17KxC1R7PgG5lMcpiL7eIusGjGMMQ/BrRxSrkIXY6rs5q2YaLyMn8gRCBwPvar70sqyeDid0bxvdcnzowTPQPxSPd/e+3rw/s+SDL1VFshT+7CgxEnF1XGVQEeGYqi1eQCC9ygVPogILFGBUDUz7IA4iArBAy0OxpdNsU4I1pjRIi7Q9hY76A780QRU=
