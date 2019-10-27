@@ -1,11 +1,14 @@
 {
   "name": "@chashitsu/chashitsu-test-1",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "a test package of Chashitsu",
   "main": "index.js",
   "scripts": {
     "test": "echo 'OK'"
   },
+  "files": [
+    "index.js"
+  ],
   "author": "Matsuyuki <matsuyuki.eca@gmail.com>",
   "publishConfig": {
     "access": "public"
