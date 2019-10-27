@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo 'OK'"
   },
+  "files": [
+    "index.js"
+  ],
   "author": "Matsuyuki <matsuyuki.eca@gmail.com>",
   "publishConfig": {
     "access": "public"
